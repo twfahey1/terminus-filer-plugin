@@ -1,4 +1,9 @@
 # Terminus Filer Plugin
+
+## Install for usage outside of Pantheon plugin project:
+- Clone into `~/.terminus/plugins-3.x` folder
+- Run `terminus plugin:install terminus-filer-plugin
+
 [![Terminus v3.x Compatible](https://img.shields.io/badge/terminus-v2.x-green.svg)](https://github.com/terminus-plugin-project/terminus-filer-plugin/tree/2.x)
 [![Terminus v2.x Compatible](https://img.shields.io/badge/terminus-v2.x-green.svg)](https://github.com/terminus-plugin-project/terminus-filer-plugin/tree/2.x)
 [![Terminus v1.x Compatible](https://img.shields.io/badge/terminus-v1.x-green.svg)](https://github.com/terminus-plugin-project/terminus-filer-plugin/tree/1.x)
